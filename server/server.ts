@@ -13,6 +13,6 @@ app.get("/home", (req, res) => {
 app.use("/auth", authRouter);
 app.use("/profile", profileRouter);
 
-app.listen(2000, () => {
+app.listen(3000, () => {
   console.log("App is Listening on http://localhost:2000");
 });
