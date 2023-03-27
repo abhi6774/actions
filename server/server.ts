@@ -14,5 +14,5 @@ app.use("/auth", authRouter);
 app.use("/profile", profileRouter);
 
 app.listen(3000, () => {
-  console.log("App is Listening on http://localhost:2000");
+  console.log("App is Listening on http://localhost:3000");
 });
