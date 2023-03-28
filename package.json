@@ -1,17 +1,22 @@
 {
   "name": "@unihosp/utils",
   "version": "1.0.0",
-  "description": "",
+  "description": "Sample Utils Library",
   "main": "index.js",
   "scripts": {
     "start": "node dist/server.js",
     "build": "tsc",
     "dev": "nodemon dist/server.js"
   },
+  "repository": "https://github.com/glxymesh/actions/tree/library",
   "keywords": [],
   "author": "Abhishek Mourya",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.18.2"
-  }
+  },
+  "files": [
+    "LICENSE",
+    "README.md"
+  ]
 }

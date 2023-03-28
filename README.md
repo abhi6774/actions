@@ -1,3 +1,3 @@
-# actions
+# Library
 
-It is a sample codebase for learning and going through github actions.
+It is a sample library for unihosp project
