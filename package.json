@@ -3,12 +3,6 @@
   "version": "1.0.2",
   "description": "It is a sample library for unihosp project",
   "main": "index.js",
-  "dependencies": {
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/glxymesh/actions/tree/library"
