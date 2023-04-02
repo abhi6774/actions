@@ -1,6 +1,6 @@
 {
   "name": "@unihosp/utils",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "It is a sample library for unihosp project",
   "main": "index.js",
   "repository": {
